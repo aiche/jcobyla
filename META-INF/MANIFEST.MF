@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: jcobyla
-Bundle-SymbolicName: jcobyla
+Bundle-Name: jcobyla - Constrained Optimization BY Linear Approximation in Java
+Bundle-SymbolicName: com.cureos.numerics.jcobyla
 Bundle-Version: 1.0.0.qualifier
 Export-Package: com.cureos.numerics
 Require-Bundle: org.junit;bundle-version="[4.0.0,5.0.0)"
