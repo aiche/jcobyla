@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jcobyla
+Bundle-SymbolicName: jcobyla
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.cureos.numerics
+Require-Bundle: org.junit;bundle-version="4.8.2"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
